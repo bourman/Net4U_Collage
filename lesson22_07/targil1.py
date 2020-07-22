@@ -1,6 +1,6 @@
 print("Hello world")
 
 
-for i in range(18):
+for i in range(100):
     print(i)
 
